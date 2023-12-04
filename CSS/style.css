@@ -1,9 +1,8 @@
 body {
-  font-family: "Roboto", "Raleway", sans-serif;
-  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
   background-color: #ffffff;
   font-size: 16px;
-
+  color: #434455;
   font-style: normal;
   font-weight: 400;
   line-height: 1.5; /* 150% */
@@ -14,23 +13,23 @@ a {
   text-decoration: none;
 }
 
-.logo1 {
+.logo-w {
   color: #4d5ae5;
   font-family: "Raleway";
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   white-space: nowrap;
 }
 
-.logo2 {
+.logo-s {
   color: #2e2f42;
   font-family: "Raleway";
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -98,6 +97,7 @@ h1 {
   background: #fff;
 }
 h3 {
+  color: #2e2f42;
   /* Header 3 */
   font-size: 20px;
   font-weight: 500;
@@ -106,10 +106,10 @@ h3 {
 }
 .chapter-two-list {
   list-style: none;
-  color: #434455;
 }
 h2 {
   /* Header 2 */
+  color: #2e2f42;
   font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
@@ -129,6 +129,7 @@ h2 {
   background: #fff;
 }
 .chapter-four-list {
+  color: #2e2f42;
   list-style: none;
 }
 
@@ -137,9 +138,9 @@ h2 {
 }
 
 .chapter-down-text {
-  color: var(--CLOUD, #f4f4fd);
+  color: #f4f4fd;
 }
-.logo3 {
+.logo-w-down {
   color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
@@ -148,7 +149,7 @@ h2 {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
-.logo4 {
+.logo-s-down {
   color: #f4f4fd;
   font-family: Raleway;
   font-size: 18px;
