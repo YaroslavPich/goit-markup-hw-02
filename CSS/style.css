@@ -124,6 +124,7 @@ a {
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.72px;
   text-align: center;
+  text-transform: capitalize;
 }
 
 .chapter-three-list {
@@ -132,6 +133,8 @@ a {
 
 .chapter-three-list-value {
   background-color: #ffffff;
+}
+.chapter-three-text {
 }
 
 .chapter-four {
