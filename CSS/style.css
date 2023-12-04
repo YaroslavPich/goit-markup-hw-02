@@ -48,11 +48,13 @@ a {
 }
 
 .contact {
+  font-style: normal;
+}
+.contact-list {
   list-style: none;
 }
 .contact .link-contact {
   color: #434455;
-  font-style: normal;
 }
 
 .contact .link-contact:hover,
