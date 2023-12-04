@@ -113,22 +113,25 @@ a {
 .chapter-two-list {
   list-style: none;
 }
-h2 {
-  /* Header 2 */
-  color: #2e2f42;
-  font-family: Roboto;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11111; /* 111.111% */
-  letter-spacing: 0.72px;
-  text-transform: capitalize;
-}
+
 .chapter-three {
   background: #f4f4fd;
+}
+.chapter-three-title-big {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11; /* 111.111% */
+  letter-spacing: 0.72px;
+  text-align: center;
 }
 
 .chapter-three-list {
   list-style: none;
+}
+
+.chapter-three-list-value {
+  background-color: #ffffff;
 }
 
 .chapter-four {
