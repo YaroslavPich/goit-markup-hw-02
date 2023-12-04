@@ -98,7 +98,7 @@ a {
 .chapter-two {
   background: #fff;
 }
-h3 {
+.chapter-two-title-litle {
   color: #2e2f42;
   /* Header 3 */
   font-size: 20px;
@@ -106,6 +106,10 @@ h3 {
   line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
 }
+
+.chapter-two-text {
+}
+
 .chapter-two-list {
   list-style: none;
 }
