@@ -132,16 +132,6 @@ h2 {
   color: #2e2f42;
   list-style: none;
 }
-.h4 {
-  color: var(--NAVY-BLUE, #2e2f42);
-  /* Header 3 */
-  font-family: Roboto;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.2; /* 120% */
-  letter-spacing: 0.4px;
-}
 
 .chapter-down {
   background: #2e2f42;
