@@ -126,10 +126,21 @@ h2 {
 
 .chapter-four {
   background: #fff;
+  color: #434455;
 }
 .chapter-four-list {
   color: #2e2f42;
   list-style: none;
+}
+.h4 {
+  color: var(--NAVY-BLUE, #2e2f42);
+  /* Header 3 */
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.2; /* 120% */
+  letter-spacing: 0.4px;
 }
 
 .chapter-down {
@@ -141,7 +152,7 @@ h2 {
 }
 .logo-w-down {
   color: #4d5ae5;
-  font-family: Raleway;
+  font-family: "Raleway";
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
@@ -150,7 +161,7 @@ h2 {
 }
 .logo-s-down {
   color: #f4f4fd;
-  font-family: Raleway;
+  font-family: "Raleway";
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
