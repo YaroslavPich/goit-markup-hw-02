@@ -65,12 +65,13 @@ a {
 .chapter-one {
   background: #2e2f42;
 }
-h1 {
+.chapter-one-title {
   color: #fff;
   font-size: 56px;
   font-weight: 700;
-  line-height: 1.07143; /* 107.143% */
+  line-height: 1.07; /* 107.143% */
   letter-spacing: 1.12px;
+  text-align: center;
 }
 
 .button {
