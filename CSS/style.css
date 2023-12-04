@@ -20,6 +20,7 @@ a {
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
 
 .logo-s {
@@ -29,6 +30,7 @@ a {
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
 
 .Menu-nav {
@@ -144,6 +146,7 @@ h2 {
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
 .logo-s-down {
   color: #f4f4fd;
@@ -152,4 +155,5 @@ h2 {
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
