@@ -9,6 +9,11 @@ body {
   letter-spacing: 0.32px;
 }
 
+p{
+  margin: 0;
+}
+h1, h2, h3, h4{}
+
 a {
   text-decoration: none;
 }
